@@ -1,0 +1,48 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{EC9D1248-6A06-4582-8B81-EAF5C2001858}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Catchpoint exceptionName="System.Exception" includeSubclasses="True" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BESoup/Logics/SoupLogic.cs">
+    <Files>
+      <File FileName="BESoup/Logics/AdminLogic.cs" Line="101" Column="17" />
+      <File FileName="BESoup/Controllers/AdminController.cs" Line="65" Column="14" />
+      <File FileName="BESoup/Models/AdminUserModel.cs" Line="1" Column="1" />
+      <File FileName="BESoup/Controllers/RegistrationController.cs" Line="35" Column="13" />
+      <File FileName="BESoup/Logics/SoupLogic.cs" Line="162" Column="74" />
+      <File FileName="BESoup/Logics/DBLogic.cs" Line="145" Column="1" />
+      <File FileName="BESoup/Logics/AuthLogic.cs" Line="73" Column="1" />
+      <File FileName="BESoup/Models/UserActiveStatusModel.cs" Line="6" Column="41" />
+      <File FileName="BESoup/Logics/CryptoLogic.cs" Line="1" Column="1" />
+      <File FileName="BESoup/Logics/PaymentLogic.cs" Line="24" Column="1" />
+      <File FileName="BESoup/Logics/RegistrationLogic.cs" Line="27" Column="14" />
+      <File FileName="BESoup/Logics/SendEmail.cs" Line="52" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BESoup" expanded="True">
+            <Node name="BESoup" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Logics" expanded="True">
+                <Node name="SoupLogic.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BESoup PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
