@@ -1,0 +1,7 @@
+REACT_APP_API_BASE_URL=http://localhost:5083/api
+REACT_APP_SOUP_API_BASE_URL=http://localhost:5083/api/soup/
+REACT_APP_SOUP_API_BASE_URL_REGISTRATION=http://localhost:5083/api/Registration/Register
+REACT_APP_SOUP_API_BASE_URL_ACTIVATION=http://localhost:5083/api/Registration/UserActivation/
+REACT_APP_AUTH_API_BASE_URL=http://localhost:5083/api/auth/
+
+REACT_APP_API_ADD_PAYMENTMETHOD=http://localhost:5083/api/PaymentMethod/payment-method
